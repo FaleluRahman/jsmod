@@ -1,0 +1,35 @@
+[
+   
+    {
+        "category": "Electronics",
+        "subcategory": "Laptops",
+        "products": [
+            { "name": "hpvictus", "salesData": [300, 4000, 500, 600] },
+            { "name": "Dell book3", "salesData": [200, 300, 250, 400, 450] }
+        ]
+    },
+    {
+        "category": "Home Appliances",
+        "subcategory": "Refrigerators",
+        "products": [
+            { "name": "LG Oven", "salesData": [500, 600, 700, 800, 900 ] },
+            { "name": "Refrigerator", "salesData": [300, 400, 500, 600] }
+        ]
+    },
+    {
+        "category": "Clothing",
+        "subcategory": "Men's Wear",
+        "products": [
+            { "name": "Shirt", "salesData": [100, 150, 200, 250] },
+            { "name": "Jacket", "salesData": [200, 250, 300, 350] }
+        ]
+    },
+    {
+        "category": "Toys",
+        "subcategory": "Educational",
+        "products": [
+            { "name": "Puzzle", "salesData": [50, 100, 150, 200] },
+            { "name": "Science Kit", "salesData": [150, 200, 250, 300] }
+        ]
+    }
+]
