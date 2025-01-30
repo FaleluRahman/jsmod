@@ -1,35 +1,35 @@
 [
-   
     {
-        "category": "Electronics",
-        "subcategory": "Laptops",
-        "products": [
-            { "name": "hpvictus", "salesData": [300, 4000, 500, 600] },
-            { "name": "Dell book3", "salesData": [200, 300, 250, 400, 450] }
-        ]
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "products": [
+        { "name": "hpvictus", "salesData": [300, 4000, 500, 600], "seasonalTrend": { "Winter": 1200, "Spring": 1800, "Summer": 2500, "Fall": 3000 } },
+        { "name": "Dell book3", "salesData": [200, 300, 250, 400, 450], "seasonalTrend": { "Winter": 800, "Spring": 1500, "Summer": 2000, "Fall": 2700 } }
+      ]
     },
     {
-        "category": "Home Appliances",
-        "subcategory": "Refrigerators",
-        "products": [
-            { "name": "LG Oven", "salesData": [500, 600, 700, 800, 900 ] },
-            { "name": "Refrigerator", "salesData": [300, 400, 500, 600] }
-        ]
+      "category": "Home Appliances",
+      "subcategory": "Refrigerators",
+      "products": [
+        { "name": "LG Oven", "salesData": [500, 600, 700, 800, 900], "seasonalTrend": { "Winter": 500, "Spring": 700, "Summer": 4000, "Fall": 1000 } },
+        { "name": "Refrigerator", "salesData": [300, 400, 500, 600], "seasonalTrend": { "Winter": 1000, "Spring": 1200, "Summer": 4500, "Fall": 800 } }
+      ]
     },
     {
-        "category": "Clothing",
-        "subcategory": "Men's Wear",
-        "products": [
-            { "name": "Shirt", "salesData": [100, 150, 200, 250] },
-            { "name": "Jacket", "salesData": [200, 250, 300, 350] }
-        ]
+      "category": "Clothing",
+      "subcategory": "Men's Wear",
+      "products": [
+        { "name": "Shirt", "salesData": [100, 150, 200, 250], "seasonalTrend": { "Winter": 200, "Spring": 3000, "Summer": 4500, "Fall": 1000 } },
+        { "name": "Jacket", "salesData": [200, 250, 300, 350], "seasonalTrend": { "Winter": 5000, "Spring": 1500, "Summer": 700, "Fall": 3500 } }
+      ]
     },
     {
-        "category": "Toys",
-        "subcategory": "Educational",
-        "products": [
-            { "name": "Puzzle", "salesData": [50, 100, 150, 200] },
-            { "name": "Science Kit", "salesData": [150, 200, 250, 300] }
-        ]
+      "category": "Toys",
+      "subcategory": "Educational",
+      "products": [
+        { "name": "Puzzle", "salesData": [50, 100, 150, 200], "seasonalTrend": { "Winter": 600, "Spring": 1200, "Summer": 1800, "Fall": 1500 } },
+        { "name": "Science Kit", "salesData": [150, 200, 250, 300], "seasonalTrend": { "Winter": 1000, "Spring": 1400, "Summer": 2500, "Fall": 2200 } }
+      ]
     }
-]
+  ]
+  
